@@ -10,5 +10,4 @@
 *.log
 
 # App generated
-.env
 postgres-data
